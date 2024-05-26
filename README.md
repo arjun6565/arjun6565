@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Cypresss**
 
-- 💬 Ask me about **Java,Python adn UI testing**
+- 💬 Ask me about **Java,Python and UI testing**
 
 - 📫 How to reach me **arjunjabong@gmail.com**
 
