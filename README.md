@@ -57,8 +57,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarupam-bot&show_icons=true&locale=en&layout=compact" alt="swarupam-bot" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun6565&show_icons=true&locale=en&layout=compact" alt="arjun6565" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarupam-bot&show_icons=true&locale=en" alt="swarupam-bot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun6565&show_icons=true&locale=en" alt="arjun6565" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarupam-bot&" alt="swarupam-bot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun6565&" alt="arjun6565" /></p>
