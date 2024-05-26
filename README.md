@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Java,Python adn UI testing**
 
-- 📫 How to reach me **swarupamkumar825@gmail.com**
+- 📫 How to reach me **arjunjabong@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aOHmDkC6oou0ji7S_mzF0bYRsKtBpfid/view?usp=sharing](https://drive.google.com/file/d/1mI9elLx5pjc8sjj3sPsQGjw0jKnwe7Ct/view?usp=sharing)
 
