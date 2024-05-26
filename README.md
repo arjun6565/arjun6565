@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarupam-bot&label=Profile%20views&color=0e75b6&style=flat" alt="swarupam-bot" /> </p>
 
-<p align="left"> <a href="https://twitter.com/swaru00505021" target="blank"><img src="https://img.shields.io/twitter/follow/swaru00505021?logo=twitter&style=for-the-badge" alt="swaru00505021" /></a> </p>
+<p align="left"> <a href="https://twitter.com/swaru00505021" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/arjunjabong?logo=twitter&style=for-the-badge" alt="arjunjabong" /></a> </p>
 
 - 🔭 I’m currently working on **SwagLabs_DemoTest**
 
