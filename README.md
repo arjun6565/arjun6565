@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/swarupam-kumar-9a8a871b7">
+<a href="https://www.linkedin.com/in/arjun-rai-485670b3/">
   <img src="https://github.com/swarupam-bot/swarupam-bot/blob/main/gallery.png" alt="LinkedIn Profile" width="4000"/>
 </a>
 
