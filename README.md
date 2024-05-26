@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **SwagLabs_DemoTest**
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Java, Python, and UI testing**
+- 💬 Ask me about **Java, Selenium, and UI testing**
 
 - 📫 How to reach me **arjunjabong@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aOHmDkC6oou0ji7S_mzF0bYRsKtBpfid/view?usp=sharing](https://drive.google.com/file/d/1mI9elLx5pjc8sjj3sPsQGjw0jKnwe7Ct/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sFcmI3UbULDhZHhCrv39mwyrhx_fOjwQ/view?usp=sharing)
 
 - ⚡ Fun fact **🎉 I once automated a task so efficiently that I had time to learn a new programming language before my coffee finished brewing! ☕️🤖**
 
